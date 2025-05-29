@@ -1,8 +1,9 @@
 # 🏅 Olympics-data-analysis
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/320px-Olympic_rings_without_rims.svg.png" alt="Olympics Logo" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/320px-Olympic_rings_without_rims.svg.png" alt="Olympics Logo" width="200"/>
 </p>
+
 
 ## 📊 Project Overview
 
