@@ -1,5 +1,9 @@
 # 🏅 Olympics-data-analysis
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/320px-Olympic_rings_without_rims.svg.png" alt="Olympics Logo" width="120"/>
+</p>
+
 ## 📊 Project Overview
 
 This Power BI project provides an in-depth analysis of the Olympic Games data from 1988 to 2016, visualizing athlete performance, country-wise medal achievements, sport-specific trends, and India's participation across seasons and years.
